@@ -5,3 +5,4 @@
 /uwsgi_temp
 /logs/nginx.pid
 /logs/access.log
+/logs/error.log
